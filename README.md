@@ -41,3 +41,29 @@ Ensure you have Python 3.10+ and the following libraries installed:
 You can install the required packages using `pip`:
 ```bash
 pip install numpy pandas matplotlib scipy notebook
+```
+
+## Usage
+
+1. Clone the repository:
+
+```bash 
+git clone [https://github.com/your-username/liposome-force-sharing.git](https://github.com/your-username/liposome-force-sharing.git)
+cd liposome-force-sharing
+```
+
+2. Launch Jupyter:
+```bash
+jupyter notebook
+```
+
+Open the data_processing.ipynb notebook and run the cells sequentially to reproduce the analysis.
+
+## 📄 **Citation**
+If you use this dataset or the analysis methods in your research, please cite our original publication:
+
+Daniel, M., Mendová, K., & Otáhal, M. (2025). Force sharing between the liposome biomembrane and viscous core - an experimental study. submitted to Journal of Liposome Research.
+
+## 📧 **Contact**
+For any questions regarding the data or the code, please contact 
+Matej Daniel at [matej.daniel@fs.cvut.cz](matej.daniel@fs.cvut.cz).
